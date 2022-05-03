@@ -1,4 +1,4 @@
-  #Exemplo de uso de templates con javascript "vainilla"
+  # Exemplo de uso de templates con javascript "vainilla"
 
   En cada iteracción de recorrer o array "cardContent" asignanse valores ó
   template, clónase e acumúlase en un *fragment*. Logo agrégase o *fragment* ó
